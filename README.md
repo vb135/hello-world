@@ -1,2 +1,4 @@
 # hello-world
-Vimal hello-wordl repository
+Vimal hello-world repository
+
+I'm new in this work of Git
