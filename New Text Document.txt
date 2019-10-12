@@ -1,2 +1,3 @@
 Hello world - Text Doc
+Adding conflict line from server repo
 Adding conflict line from the local repo
