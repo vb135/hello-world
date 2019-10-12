@@ -1,3 +1,4 @@
 Hello world - Text Doc
 Adding conflict line from server repo
 Adding conflict line from the local repo
+Adding one line to check fetch functionality
