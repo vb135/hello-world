@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2019-10-12T14:42:05Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="78e61364-49cd-482d-bb21-8b6573cfe5c6"><c:Value>3257e785-b2ea-420c-acbe-f090d9256aeb</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="3495706b-4db4-4763-a7ab-95bcc0845b76"><c:FormattedName>Vimal</c:FormattedName><c:GivenName>Vimal</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="2b6a88db-f1dc-493b-a481-bd66f192ea5a"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
