@@ -1,1 +1,2 @@
 Hello world - Text Doc
+Adding conflict line
